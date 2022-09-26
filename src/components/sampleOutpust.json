@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Deadly gun attack at Russian school",
+      "description": "Gunman opens fire at school in Russian city of Izhevsk, with officials saying at least six people killed and others wounded",
+      "url": "http://www.bbc.co.uk/news/world-europe-63032790",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-09-26T08:22:17.7590317Z",
+      "content": "Gunman opens fire at school in Russian city of Izhevsk, with officials saying at least six people killed and others wounded"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Pound sterling: Currency hits all-time low against dollar",
+      "description": "It comes as Chancellor Kwasi Kwarteng has promised more tax cuts to come after last week's budget.",
+      "url": "http://www.bbc.co.uk/news/live/business-63031372",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-09-26T07:07:26.6648069Z",
+      "content": "Whatever is said in\r\npublic, behind the scenes, the government will be deeply concerned waking up to\r\nrecord lows, as well as the surge in UK government borrowing costs, in\r\nparticular. Market openin… [+1793 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nasa spacecraft lining up to smash into an asteroid",
+      "description": "The Dart mission will test a technique for defending the Earth against hazardous space rocks.",
+      "url": "http://www.bbc.co.uk/news/science-environment-63006717",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E59E/production/_126828785_dart_still-reviseda.jpg",
+      "publishedAt": "2022-09-26T05:22:18.9934454Z",
+      "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nIn the coming hours, the American space agency will crash a probe into an asteroid. \r\nNasa's Dart mission wants to see how difficult it would be … [+4595 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Italy elections: Giorgia Meloni's right-wing alliance ahead",
+      "description": "The far-right Brothers of Italy, allied with two other parties, finish ahead after a closely watched election.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-63025985",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-09-26T05:07:19.77493Z",
+      "content": "Giorgia Meloni, 45, is poised to become Italy's first female prime minister and the nations first PM from the far right.\r\nEmbracing a controversial old motto,\"God, fatherland and family\", she campaig… [+1359 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Rihanna to headline Super Bowl half-time show",
+      "description": "The nine-time Grammy winner will headline February's event in Arizona, the NFL has announced.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-63029845",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13EEC/production/_126844618_0b309f5e6561507616e804c149558ddc0d151684.jpg",
+      "publishedAt": "2022-09-26T03:07:17.0241841Z",
+      "content": "Pop superstar Rihanna will headline the half-time show at February's Super Bowl in Arizona, the NFL has announced. \r\nThe nine-time Grammy winner broke the news by posting a photo of an NFL branded fo… [+2217 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Pound slumps to all-time low against dollar",
+      "description": "Sterling plunged by 4% in early Asia trade to the lowest level since decimalisation in 1971.",
+      "url": "http://www.bbc.co.uk/news/business-63030208",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96FE/production/_126845683_poundandfollar.jpg",
+      "publishedAt": "2022-09-26T02:07:22.539948Z",
+      "content": "The pound has fallen to its lowest level against the US dollar since decimalisation in 1971.\r\nIn early Asia trade, sterling fell by more than 4% to $1.0327 before regaining some ground to around $1.0… [+338 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Family travel world before children go blind",
+      "description": "A Montreal family goes on a global sightseeing tour after three of the children are diagnosed with a genetic condition.",
+      "url": "http://www.bbc.co.uk/news/world-62960970",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB78/production/_126829974_p0d27yw1.jpg",
+      "publishedAt": "2022-09-26T00:22:19.2748649Z",
+      "content": "When three of Edith and Sébastians four children were diagnosed with a genetic disease that will eventually leave them blind, they decided to give their children as many visual memories as they could… [+287 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "People smuggler: I get clients to sign a waiver",
+      "description": "A people smuggler lifts the lid on his trade to BBC Panorama's Jane Corbin.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62832633",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B434/production/_126823164_1gettyimages-1241835884.jpg",
+      "publishedAt": "2022-09-25T23:07:22.8679496Z",
+      "content": "By Jane CorbinBBC Panorama\r\nA people smuggler says the UK government's plan to send asylum seekers to Rwanda is no deterrent for his customers. Jane Corbin meets him at his base in Turkey.\r\nNight is … [+5412 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Italy's far right set to win election - exit poll",
+      "description": "Far-right Giorgia Meloni set to win Italy's elections and is on course to become first female PM - exit polls",
+      "url": "http://www.bbc.co.uk/news/world-europe-63029909",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-09-25T21:07:22.9009502Z",
+      "content": "Far-right Giorgia Meloni set to win Italy's elections and is on course to become first female PM - exit polls"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Protests in Russian Dagestan region against new draft",
+      "description": "Demonstrators clashed with security officials, in rare violent backlashes against police.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63028586",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/974E/production/_126843783_dag.jpg",
+      "publishedAt": "2022-09-25T17:22:19.1497514Z",
+      "content": "By Matt MurphyBBC News\r\nDemonstrators in Russia's Dagestan region have clashed with police, in the latest protests to break out against Moscow's new \"partial mobilisation\".\r\nFootage posted to social … [+3040 chars]"
+    }
+  ]
+}
